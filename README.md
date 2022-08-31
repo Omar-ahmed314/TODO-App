@@ -1,3 +1,11 @@
+Todo web application, with multiple lists
+# Tools
+- Reactjs
+- Reactstrap
+- CSS
+- HTML
+- Bootstrap
+
 # How to run
 - install nodejs
 - run command
